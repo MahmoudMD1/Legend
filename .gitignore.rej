@@ -1,0 +1,6 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -72,3 +72,4 @@
+ /[Aa]ssets/[Ss]treamingAssets/aa/*
+ Assets/Images/
+ Assets/Tile Palette/Paths And Objects/
++Assets/Tile Palette/
